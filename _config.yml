@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: 欧耶 olim
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: 常来的地方.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://github.com/olimwei.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -14,135 +14,331 @@ Cover_Image: https://picsum.photos/1080?nocache=
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
+
+    # NocoBase
+  - Name: NocoBase
+    URL: https://base.olim.cc
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+        
+    # Memos-oracle-cc
+  - Name: Memos备忘录
+    URL: https://memo.olim.cc
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+    # openlist-oracle-cc
+  - Name: OpenList文件存储
+    URL: https://oplist.olim.cc
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+    # n8n-linux-mint
+  - Name: n8n工作流自动化
+    URL: https://n8n.olim.cc
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+    # pan-cloudflare-CDrive
+  - Name: 盘-CDrive
+    URL: https://pan.olim.cc
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+    # Alist-ClawCloud
+  - Name: AList文件存储-Claw
+    URL: https://oplist.olim.in
+    Username: olimwei
+    Color: '#0073AA'
+    Icon-Class: fas fa-link
+
+    # Excalidraw-ClawCloud
+  - Name: Draw画图-Claw
+    URL: https://draw.olim.in
+    Username: olimwei
+    Color: '#0073AA'
+    Icon-Class: fas fa-link
+
+    # Ghost-ClawCloud
+  - Name: Ghost博客-Claw
+    URL: https://blog.olim.in
+    Username: olimwei
+    Color: '#0073AA'
+    Icon-Class: fas fa-link
+
+    # PPT-Github
+  - Name: 临时PPT展示-GH
+    URL: https://ppt.olim.in
+    Username: olimwei
+    Color: '#0073AA'
+    Icon-Class: fas fa-link
+
+    # Links-Github
+  - Name: Links导航-GH
+    URL: https://links.olim.in
+    Username: olimwei
+    Color: '#0073AA'
+    Icon-Class: fas fa-link
+
+    # Github
+  - Name: Github
+    URL: https://github.com
+    Username: olimwei
+    Color: '#18aa4a'
+    Icon-Class: fa fa-calendar-check
+
+    # Cloudflare
+  - Name: CloudFlare赛博菩萨
+    URL: https://dash.cloudflare.com/
+    Username: archiwei
+    Color: '#18aa4a'
+    Icon-Class: fa fa-calendar-check
+
+    # Oracle
+  - Name: Oracle甲骨文
+    URL: https://www.oracle.com/ca-en/cloud/sign-in.html
+    Username: lwei
+    Color: '#18aa4a'
+    Icon-Class: fa fa-calendar-check
+
+    # ClawCloud run
+  - Name: ClawCloud Run
+    URL: https://us-west-1.run.claw.cloud/
+    Username: archiwei
+    Color: '#18aa4a'
+    Icon-Class: fa fa-calendar-check
+
+    # ClawCloud run
+  - Name: ClawCloud Run
+    URL: https://us-west-1.run.claw.cloud/
+    Username: archiwei
+    Color: '#18aa4a'
+    Icon-Class: fa fa-calendar-check
+
+    # Google-AI Studio
+  - Name: 谷歌-AI Studio
+    URL: https://aistudio.google.com/apps
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-Colab
+  - Name: 谷歌-Colab
+    URL: https://colab.research.google.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-Gemini
+  - Name: 谷歌-Gemini
+    URL: https://gemini.google.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-Looker
+  - Name: 谷歌-Looker数据分析
+    URL: https://lookerstudio.google.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-News Initiative
+  - Name: 谷歌-News Initiative
+    URL: https://newsinitiative.withgoogle.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-travel
+  - Name: 谷歌-Travel旅游
+    URL: https://www.google.com/travel
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-Art & Culture
+  - Name: 谷歌-Art & Culturel
+    URL: https://artsandculture.google.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-trend
+  - Name: 谷歌-Trend风向标
+    URL: https://trends.google.com/trends/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-charts
+  - Name: 谷歌-Chart图表
+    URL: https://developers.google.com/chart/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-saved
+  - Name: 谷歌-Saved收集
+    URL: https://www.google.com/interests/saved
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-projects
+  - Name: 谷歌-Projects研究
+    URL: https://research.google/resources/our-projects/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+    # Google-sites
+  - Name: 谷歌-Sites网站
+    URL: https://sites.google.com/
+    Username: archiwei
+    Color: '#1DB954'
+    Icon-Class: fa-brands fa-google
+
+  # GOOGLE CALANDER APPOINTMENT
+  - Name: Google Appointment
+    URL: https://calendar.app.google/YDATjdfnng #改成自己的日历
+    Color: '#1b66c9'
+    Icon-Class: fa-regular fa-calendar-days
+    Text_Color: '#ffffff'
+
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: olimwei
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # VIMEO
+  - Name: Vimeo
+    URL: 'https://vimeo.com'
+    Username: olimwei
+    Icon-Class: fab fa-vimeo-v
+    Color: '#1ab7ea'
+    Text_Color: '#ffffff'
+
+    # REDDIT
+  - Name: Reddit
+    URL: http://reddit.com/u
+    Username: olimwei
+    Color: '#FF4500'
+    Icon-Class: fab fa-reddit-alien
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:olim@olim.in'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # CAL.COM
+  - Name: Cal.com
+    URL: https://cal.com
+    Username: olimwei
+    Color: '#888888'
+    Icon-Class: fa fa-calendar-check
+    Text_Color: '#ffffff'
+
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: olimwei
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: olimwei
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-
-    # X-TWITTER
-  - Name: X
-    URL: https://x.com
-    Username: harsh98trivedi
-    Color: '#000000'
-    Icon-Class: fa-brands fa-x-twitter
-
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-  # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
-
-    # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
-
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
-  
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:hi@harshtrivedi.in'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-
-  # GOOGLE CALANDER APPOINTMENT
-  - Name: Google Appointment
-    URL: https://calendar.app.google/YDATCWmoZNXCEGiW6
-    Color: '#1b66c9'
-    Icon-Class: fa-regular fa-calendar-days
-    Text_Color: '#ffffff'
-
-    # CAL.COM
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#888888'
-    Icon-Class: fa fa-calendar-check
-    Text_Color: '#ffffff'
-
-    # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
-    Color: '#66c0f4'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-steam
 
     # THREADS.NET
   - Name: Threads
     URL: https://threads.net
-    Username: harsh98trivedi
+    Username: olimwei
     Color: '#000000'
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
-  # BLUESKY
-  - Name: Bluesky
-    URL: https://bsky.app/profile
-    Username: harsh98trivedi.bsky.social
-    Color: '#58a2fc'
-    Icon-Class: fa-brands fa-bluesky
+  # MESSENGER
+  - Name: Messenger
+    URL: https://m.me
+    Username: olimwei
+    Color: '#006AFF'
+    Icon-Class: fab fa-facebook-messenger
+
+    # X-TWITTER
+  - Name: X
+    URL: https://x.com
+    Username: olimwei
+    Color: '#000000'
+    Icon-Class: fa-brands fa-x-twitter
 
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
+    Username: '@olimwei'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
+
+    # SNAPCHAT
+  - Name: Snapchat
+    URL: https://www.snapchat.com/add
+    Username: 'olimwei'
+    Color: '#FFFC00'
+    Text_Color: '#000000'
+    Icon-Class: fab fa-snapchat-ghost
+
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: olimwei
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+#    # GITHUB
+#  - Name: GitHub
+#    URL: http://github.com
+#    Username: olimwei
+#    Color: '#6e5494'
+#    Icon-Class: fab fa-github
+
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: olimwei
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+    # STEAM
+  - Name: Steam
+    URL: https://steamcommunity.com/id
+    Username: 'olimwei'
+    Color: '#66c0f4'
+    Text_Color: '#000000'
+    Icon-Class: fab fa-steam
+
+  # BLUESKY
+  - Name: Bluesky
+    URL: https://bsky.app/profile
+    Username: olimwei.bsky.social
+    Color: '#58a2fc'
+    Icon-Class: fa-brands fa-bluesky
 
     # WORDPRESS
   - Name: WordPress.org
     URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
+    Username: olimwei
     Icon-Class: fa-brands fa-wordpress-simple
     Color: '#0073AA'
     Text_Color: '#ffffff'
@@ -150,7 +346,7 @@ links:
     # GOOGLE DEVELOPERS
   - Name: GoogleDev
     URL: 'https://g.dev'
-    Username: harshtrivedi
+    Username: olimwei
     Icon-Class: fa-brands fa-google
     Color: '#F4B400'
     Text_Color: '#DB4437'
@@ -158,7 +354,7 @@ links:
     # MASTODON
   - Name: Mastodon
     URL: 'https://fosstodon.org'
-    Username: '@harshtrivedi'
+    Username: '@olimwei'
     Icon-Class: fa-brands fa-mastodon
     Color: '#5a39c9'
     Text_Color: '#ffffff'
@@ -166,7 +362,7 @@ links:
     # PEERLIST
   - Name: Peerlist
     URL: 'https://peerlist.io'
-    Username: harshtrivedi
+    Username: olimwei
     Icon-Class: fa-solid fa-p
     Color: '#18aa4a'
     Text_Color: '#ffffff'
@@ -174,36 +370,36 @@ links:
     # PINTEREST
   - Name: Pinterest
     URL: https://pinterest.com
-    Username: 'harsh98trivedi'
+    Username: 'olimwei'
     Color: '#E60023'
     Icon-Class: fab fa-pinterest
 
     # BEHANCE
   - Name: Behance
     URL: https://www.behance.net
-    Username: harsh98trivedi
+    Username: olimwei
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
-  #   # DRIBBBLE
-  # - Name: Dribbble
-  #   URL: https://dribbble.com
-  #   Username: 
-  #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
+    # DRIBBBLE
+  - Name: Dribbble
+    URL: https://dribbble.com
+    Username: 
+    Color: '#ea4c89'
+    Icon-Class: fab fa-dribbble
 
-  #   # DEVIANTART
-  # - Name: DeviantArt
-  #   URL: https://www.deviantart.com
-  #   Username: harshtrivedi
-  #   Icon-Class: fab fa-deviantart
-  #   Color: '#05CC46'
-  #   Text_Color: '#ffffff'
+    # DEVIANTART
+  - Name: DeviantArt
+    URL: https://www.deviantart.com
+    Username: olimwei
+    Icon-Class: fab fa-deviantart
+    Color: '#05CC46'
+    Text_Color: '#ffffff'
 
   #   # Drupal
   # - Name: Drupal
   #   URL: 'https://www.drupal.org/u'
-  #   Username: harshtrivedi
+  #   Username: olimwei
   #   Icon-Class: fa-brands fa-drupal
   #   Color: '#0077C0'
   #   Text_Color: '#ffffff'
@@ -211,17 +407,9 @@ links:
     # TWITCH
   - Name: Twitch
     URL: 'https://twitch.tv'
-    Username: harsh98trivedi
+    Username: olimwei
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
-    Text_Color: '#ffffff'
-
-    # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
   #   # WHATSAPP
@@ -231,18 +419,18 @@ links:
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
+      DISCORD
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: 
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
 
     # FIGMA
   - Name: Figma
     URL: https://www.figma.com
-    Username: '@harshtrivedi'
+    Username: '@olimwei'
     Icon-Class: fab fa-figma
     Color: '#ff2865'
     Text_Color: '#ffffff'
@@ -257,7 +445,7 @@ links:
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
-    Username: harsh98trivedi
+    Username: olimwei
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
@@ -268,21 +456,21 @@ links:
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
-  #   # MEDIUM
-  # - Name: Medium
-  #   URL: 'https://medium.com'
-  #   Username: '@harsh98trivedi'
-  #   Icon-Class: fab fa-medium-m
-  #   Color: '#00ab6c'
-  #   Text_Color: '#ffffff'
+    # MEDIUM
+  - Name: Medium
+    URL: 'https://medium.com'
+    Username: '@olimwei'
+    Icon-Class: fab fa-medium-m
+    Color: '#00ab6c'
+    Text_Color: '#ffffff'
 
-  #   # DEV.TO
-  # - Name: Dev.to
-  #   URL: 'https://dev.to'
-  #   Username: harsh98trivedi
-  #   Icon-Class: fab fa-dev
-  #   Color: '#ffffff'
-  #   Text_Color: '#000000'
+    # DEV.TO
+  - Name: Dev.to
+    URL: 'https://dev.to'
+    Username: olimwei
+    Icon-Class: fab fa-dev
+    Color: '#ffffff'
+    Text_Color: '#000000'
 
   #   # TUMBLR
   # - Name: Tumblr
@@ -294,23 +482,16 @@ links:
   # BUY ME A COFFEE
   - Name: BuyMeACoffee
     URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
+    Username: olimwei
     Icon-Class: fas fa-mug-hot
     Color: '#FFDD00'
     Text_Color: '#000000'
 
     # CUSTOM LINK
   - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
+    URL: https://olimwei.github.io/blog
     Icon-Class: fas fa-link
     Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-  # LINKS
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY

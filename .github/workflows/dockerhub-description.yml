@@ -9,7 +9,7 @@ on:
 
 jobs:
   dockerHubDescription:
-    if: github.repository == 'harsh98trivedi/links'
+    if: github.repository == 'olimwei/links'
     runs-on: ubuntu-latest
     steps:
     - 
